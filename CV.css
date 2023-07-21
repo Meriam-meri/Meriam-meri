@@ -1,0 +1,68 @@
+*{ 
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(218, 244, 236);
+}header{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(174, 68%, 71%);
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+   
+
+}
+
+header ul li a{
+        color: rgb(211, 26, 26);
+        text-decoration: none  ;
+        padding-left: 10px;
+        text-transform: uppercase;
+        color: rgb(255, 255, 255);
+}
+
+header ul li{
+    padding: 20px 0px;
+}
+
+
+header h2{
+    text-transform: uppercase;
+    color: rgb(33, 21, 208);
+    margin-left: 20px;
+}
+
+.text1{
+    margin-top: 10px;
+}
+.text1 li{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
